@@ -1,0 +1,6 @@
+BaseClass.java
+ BaseClass
+pageObject/HomePage.java
+ pageObject.HomePage
+pageLocator/HomePageLocatorClass.java
+ pageLocator.HomePageLocatorClass
